@@ -36,3 +36,8 @@ and don't forget to tell us which event it is for.
 
 Because Node.js Live is an event series for local communities we do not have travel
 assistance available :(
+
+## Inerested in learning node js 
+
+If you are interested in learning Node js you hav to only search code with harry in 
+youtube. A very successful web and software developer
